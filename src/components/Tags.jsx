@@ -6,6 +6,7 @@ import TagIcon from "./ui/TagIcon";
 
 function Tags() {
   const [selectedTag, setSelectedTag] = useState(null);
+
   const allTags = useMemo(() => {
     return notesData
       .flatMap((note) => note.tags)

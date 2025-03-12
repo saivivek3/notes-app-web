@@ -1,5 +1,6 @@
 export const notesData = [
   {
+    id:1,
     title: "React Performance Optimization",
     tags: ["Dev", "React"],
     content:
@@ -8,6 +9,7 @@ export const notesData = [
     isArchived: false,
   },
   {
+    id:2,
     title: "Japan Travel Planning",
     tags: ["Travel", "Personal"],
     content:
@@ -16,6 +18,7 @@ export const notesData = [
     isArchived: false,
   },
   {
+    id:3,
     title: "Favorite Pasta Recipes",
     tags: ["Cooking", "Recipes"],
     content:
@@ -24,6 +27,7 @@ export const notesData = [
     isArchived: false,
   },
   {
+    id:4,
     title: "TypeScript Migration Guide",
     tags: ["Dev", "React", "TypeScript"],
     content:
@@ -31,7 +35,7 @@ export const notesData = [
     lastEdited: "2024-10-26T09:20:00Z",
     isArchived: true,
   },
-  {
+  {id:5,
     title: "Weekly Workout Plan",
     tags: ["Fitness", "Health"],
     content:
@@ -40,6 +44,7 @@ export const notesData = [
     isArchived: false,
   },
   {
+    id:6,
     title: "Gift Ideas",
     tags: ["Personal", "Shopping"],
     content:
@@ -48,6 +53,7 @@ export const notesData = [
     isArchived: true,
   },
   {
+    id:7,
     title: "React Component Library",
     tags: ["Dev", "React"],
     content:
@@ -56,6 +62,7 @@ export const notesData = [
     isArchived: true,
   },
   {
+    id:8,
     title: "Meal Prep Ideas",
     tags: ["Cooking", "Health", "Recipes"],
     content:
@@ -64,6 +71,7 @@ export const notesData = [
     isArchived: false,
   },
   {
+    id:9,
     title: "Reading List",
     tags: ["Personal", "Dev"],
     content:
@@ -72,6 +80,7 @@ export const notesData = [
     isArchived: false,
   },
   {
+    id:10,
     title: "Fitness Goals 2025",
     tags: ["Fitness", "Health", "Personal"],
     content:

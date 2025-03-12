@@ -24,8 +24,11 @@
 .flex-vertical-center {
   @apply flex  items-center;
 }
-.paragraph{
-  @apply text-sm font-medium   tracking-[-0.2px]
+.paragraph {
+  @apply text-sm font-medium   tracking-[-0.2px];
+}
+.heading {
+  @apply text-base font-semibold tracking-[-0.3px];
 }
 
 body {
